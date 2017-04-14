@@ -46,11 +46,6 @@
             android:name=".DemoActivity"
             android:label="Demo"/>
 
-        <service
-            android:name=".PathfinderIntentService"
-            android:exported="false">
-        </service>
-
         <activity
             android:name=".SettingsActivity"
             android:label="@string/title_activity_settings"
@@ -59,11 +54,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.bswearingen.www.rlpmapp.MainActivity"/>
         </activity>
-
-        <receiver
-            android:name=".StopPathfinderService"
-            android:enabled="true"
-            android:process=":remote"/>
 
         <service
             android:name=".DirectionProviderService"
