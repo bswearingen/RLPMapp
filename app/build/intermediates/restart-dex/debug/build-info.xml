@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="922996464452376"
+    token="4121374554191611767"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="140" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="C:\Projects\RLPMapp\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Projects\RLPMapp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="921287496073332"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Projects\RLPMapp\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="922996464452376"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Projects\RLPMapp\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Projects\RLPMapp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

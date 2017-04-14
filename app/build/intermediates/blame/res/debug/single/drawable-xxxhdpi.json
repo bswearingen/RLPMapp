@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_stat_pignotificationicon_light.png",
+        "source": "C:\\Projects\\RLPMapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_stat_pignotificationicon_light.png"
+    },
+    {
+        "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_action_settings.png",
+        "source": "C:\\Projects\\RLPMapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_action_bluetooth.png",
+        "source": "C:\\Projects\\RLPMapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_stat_pignotificationicon_no_pupil_light.png",
+        "source": "C:\\Projects\\RLPMapp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_stat_pignotificationicon_no_pupil_light.png"
+    }
+]
