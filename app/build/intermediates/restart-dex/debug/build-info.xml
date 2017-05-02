@@ -4,7 +4,7 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="922996464452376"
+    timestamp="1497931815391281"
     token="4121374554191611767"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -16,34 +16,27 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="140" />
+        duration="0" />
     <task
         name="verifier"
-        duration="13" />
-
-    <artifact
-        location="C:\Projects\RLPMapp\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="C:\Projects\RLPMapp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-        type="DEX" />
+        duration="0" />
 
     <build
-        timestamp="921287496073332"
+        timestamp="1497335393342694"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Projects\RLPMapp\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="922996464452376"
+        timestamp="1497856676175912"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Projects\RLPMapp\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
         <artifact
             location="C:\Projects\RLPMapp\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
             type="DEX" />
     </build>
+    <build
+        timestamp="1497931815391281"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

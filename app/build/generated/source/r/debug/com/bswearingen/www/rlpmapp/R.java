@@ -3699,10 +3699,7 @@ containing a value of this type.
         public static final int Widget_MediaRouter_MediaRouteButton=0x7f0a015e;
     }
     public static final class xml {
-        public static final int pref_data_sync=0x7f060000;
-        public static final int pref_general=0x7f060001;
-        public static final int pref_headers=0x7f060002;
-        public static final int pref_notification=0x7f060003;
+        public static final int serviceconfig=0x7f060000;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.

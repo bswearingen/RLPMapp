@@ -1,18 +1,6 @@
 [
     {
-        "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_notification.xml",
-        "source": "C:\\Projects\\RLPMapp\\app\\src\\main\\res\\xml\\pref_notification.xml"
-    },
-    {
-        "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
-        "source": "C:\\Projects\\RLPMapp\\app\\src\\main\\res\\xml\\pref_general.xml"
-    },
-    {
-        "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
-        "source": "C:\\Projects\\RLPMapp\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
-    },
-    {
-        "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
-        "source": "C:\\Projects\\RLPMapp\\app\\src\\main\\res\\xml\\pref_headers.xml"
+        "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\serviceconfig.xml",
+        "source": "C:\\Projects\\RLPMapp\\app\\src\\main\\res\\xml\\serviceconfig.xml"
     }
 ]

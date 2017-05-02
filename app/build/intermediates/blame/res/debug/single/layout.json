@@ -16,12 +16,12 @@
         "source": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
-    },
-    {
         "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
     },
     {
         "merged": "C:\\Projects\\RLPMapp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
